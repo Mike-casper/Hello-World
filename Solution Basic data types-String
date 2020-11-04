@@ -1,0 +1,18 @@
+let
+A1="A",a2="a",
+B1="B",b2="b",
+C1="C",c2="c",
+D1="D",d2="d",
+E1="E",e2="e",
+N1="N",n2="n"
+function Dad(){
+  return D1+a2+d2;
+}
+function Bee(){
+  //select some variable to combine "Bee"
+  return B1+e2+e2;
+}
+function banana(){
+  //select some variable to combine "banana"
+  return b2+a2+n2+a2+n2+a2;
+}
