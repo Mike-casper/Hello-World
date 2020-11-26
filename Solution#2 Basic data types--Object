@@ -1,0 +1,17 @@
+function animal(dog){
+  return "This " + dog.color + " " +dog.name + " has " + dog.legs + " legs."  
+}
+
+let dog = {
+name:"dog",
+legs:4,
+color:"white",}
+
+function animal(cock){
+  return "This " + cock.color + " " +cock.name + " has " + cock.legs + " legs."  
+}
+
+let cock = {
+name:"cock",
+legs:2,
+color:"red",}
