@@ -1,0 +1,26 @@
+function animal(dog){
+  return ("This " + dog.color + " " + dog.name +" " + "has " + dog.legs + " legs." )
+}
+
+let dog = new Object();
+dog.name = "dog";
+dog.legs = 4;
+dog.color = "white";
+
+ function animal(cock){
+  return ("This " + cock.color + " " + cock.name +" " + "has " + cock.legs + " legs." )
+}
+
+let cock = new Object();
+cock.name = "cock";
+cock.legs = 2;
+cock.color = "red";
+
+function animal(rabbit){
+  return ("This " + rabbit.color + " " + rabbit.name +" " + "has " + rabbit.legs + " legs." )
+}
+
+let rabbit = new Object();
+rabbit.name = "rabbit";
+rabbit.legs = 4;
+rabbit.color = "gray";
