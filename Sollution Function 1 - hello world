@@ -1,0 +1,4 @@
+
+function greet(){
+let a = "hello world!"
+return a}
